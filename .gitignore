@@ -1,0 +1,8 @@
+# Ignorar arquivos Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+.venv/*
